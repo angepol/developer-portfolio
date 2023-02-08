@@ -1,8 +1,7 @@
 import React from "react";
-import { useState } from "react";
 
 const ProjectResume = ({ dates, type, position, bullets }) => {
-  const [bulletsLocal, setBulletsLocal] = useState();
+  const [bulletsLocal, setBulletsLocal] = React.useState();
   // const [bulletsLocal, setBulletsLocal] = React.useState(bullets.split(","));
 
   return (

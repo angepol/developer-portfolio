@@ -4,6 +4,8 @@ const nextConfig = {
   experimental: {
     newNextLinkBehavior: false,
   },
+  resolveJsonModule: true,
+  esModuleInterop: true,
 };
 
 module.exports = nextConfig;
