@@ -18,51 +18,54 @@
       "link": "https://www.linkedin.com/in/angeline-polidano/"
     },
    
-    { "id": "5", "title": "Email", "link": "angelinepolidano@gmail.com" }
+    { "id": "5", "title": "Email", "link": "mailto:angelinepolidano@gmail.com" }
   ],
   "projects": [
+   
     {
       "id": "1",
-      "title": "Flora Denbo",
-      "description": "Web Development: React, Express, CSS, Stripe API",
-      "imageSrc": "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://flora-denbo.herokuapp.com/"
+      "title": "Ampd",
+      "description": "Web Development: React, Ruby on Rails, Mapbox API",
+      "imageSrc": "https://i.postimg.cc/jdc14bH5/amp2.png",
+      "url": "https://ampd-client.netlify.app"
     },
     {
       "id": "2",
-      "title": "Ampd",
-      "description": "Web Development: React, Ruby on Rails, Mapbox API",
-      "imageSrc": "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://ampd-client.netlify.app"
+      "title": "Calendar-service",
+      "description": "Web Application: React, CSS, TypeScript, Jest, Express, MongoDB",
+      "imageSrc": "https://i.postimg.cc/QdztnvQg/calendar.png",
+      "url": "https://github.com/angepol/calendar-service"
     },
     {
       "id": "3",
       "title": "Clear Path Methodology",
       "description": "Web Development: React",
-      "imageSrc": "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      "imageSrc": "https://i.postimg.cc/1ztPyb44/clearpath.png",
       "url": "https://www.clearpathmethodology.com/"
     },
     {
       "id": "4",
-      "title": "Tic Tac Toe",
-      "description": "Game Development: JavaScript, JQuery, HTML, CSS",
-      "imageSrc": "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "https://angepol.github.io/tic-tac-toe/"
+      "title": "Flora Denbo",
+      "description": "Web Development: React, Express, CSS, Stripe API",
+      "imageSrc": "https://i.postimg.cc/fLH1BvNF/flora.png",
+      "url": "https://flora-denbo.herokuapp.com/"
     },
     {
       "id": "5",
-      "title": "Calendar-service",
-      "description": "Web Application: React, CSS, TypeScript, Jest, Express, MongoDB",
-      "imageSrc": "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Traveller",
+      "description": "Web Application: MapBox API, Ruby on Rails, CSS",
+      "imageSrc": "https://i.postimg.cc/7hTRNGNr/traveller1.png",
+      "url": "https://serene-fortress-87285.herokuapp.com/"
     },
     {
       "id": "6",
-      "title": "Traveller",
-      "description": "Web Application: MapBox API, Ruby on Rails, CSS",
-      "imageSrc": "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
-      "url": "http://chetanverma.com/"
+      "title": "Tic Tac Toe",
+      "description": "Game Development: JavaScript, JQuery, HTML, CSS",
+      "imageSrc": "https://i.postimg.cc/sg1srtMx/tictactoe.png",
+      "url": "https://angepol.github.io/tic-tac-toe/"
     }
+   
+  
   ],
   "services": [
     {
@@ -86,7 +89,7 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-
+  "aboutpara": "I am a driven, detail-oriented, creative problem solver who enjoys building full-stack applications that integrate seamlessly with third party API’s, and I have a love for test-driven development and quality documentation.",
   "resume": {
     "tagline": "Detail-oriented Software Engineer with excellent communication skills",
     "experiences": [
