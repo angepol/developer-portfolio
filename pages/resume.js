@@ -75,10 +75,15 @@ const Resume = () => {
                   <h3 className="text-sm opacity-75">
                     {resume.education.universityDate}
                   </h3>
+                  <h2 className="text-lg">North Melbourne Institute of Technology: Advanced Diploma of Music</h2>
+                  <h3 className="text-sm opacity-75">
+                    2012 - 2014
+                  </h3>
                   <p className="text-sm mt-2 opacity-50">
                     {resume.education.universityPara}
                   </p>
                 </div>
+ 
               </div>
               <div className="mt-5">
                 <h1 className="text-2xl font-bold">Skills</h1>

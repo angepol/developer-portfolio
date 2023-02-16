@@ -64,7 +64,6 @@
       "url": "https://angepol.github.io/tic-tac-toe/"
     }
    
-  
   ],
   "aboutpara": "I am a driven, detail-oriented, creative problem solver who enjoys building full-stack applications that integrate seamlessly with third party API’s, and I have a love for test-driven development and quality documentation.",
   "resume": {
@@ -89,14 +88,14 @@
         "type": "Full Time",
         "position": "Junior Software Engineer at Insight Orchards",
         "bullets": [
-     "Developed a core library of reusable UI components in React using Storybook to standardize development, testing, documentation, and reduce front-end inconsistencies",
-     "Collaborated in team meetings discussing feature requirements and implementation strategies, engaging in a range of solo, pairing, and mobbing sessions to optimize development solutions and workflow",
-     "Implemented payment gateway portal that supports a multi-tier subscription model and integrates with Stripe API",
-     "Built out full-stack calendar microservice consumed by both mobile and web clients, supporting CRUD operations for single and recurring events",
-     "Developed text and audio comment features end-to-end for a community-based media application",
-     "Leveraged Test-Driven Development to implement features via unit, integration, and end-to-end tests (Cypress, Jest)",
-     "Served as a liaison between design, product, and engineers, giving weekly demos, and integrating product feedback",
-     "Participated in agile rituals such as daily stand ups, code reviews, sprint plannings, and retrospectives"
+          "Developed a core library of reusable UI components in React using Storybook to standardize development, testing, documentation, and reduce front-end inconsistencies",
+          "Collaborated in team meetings discussing feature requirements and implementation strategies, engaging in a range of solo, pairing, and mobbing sessions to optimize development solutions and workflow",
+          "Implemented payment gateway portal that supports a multi-tier subscription model and integrates with Stripe API",
+          "Built out full-stack calendar microservice consumed by both mobile and web clients, supporting CRUD operations for single and recurring events",
+          "Developed text and audio comment features end-to-end for a community-based media application",
+          "Leveraged Test-Driven Development to implement features via unit, integration, and end-to-end tests (Cypress, Jest)",
+          "Served as a liaison between design, product, and engineers, giving weekly demos, and integrating product feedback",
+          "Participated in agile rituals such as daily stand ups, code reviews, sprint plannings, and retrospectives"
     ]
     
       },
@@ -113,17 +112,18 @@
         ]
       }
     ],
-    "education": {
-      "universityName": "General Assembly: Software Engineering Immersive",
-      "universityDate": "September- December 2021",
+    "education": 
+      {
+      "universityName": ["General Assembly: Software Engineering Immersive"],
+      "universityDate": "September - December 2021",
       "bullets": [
       "Envisioned, developed and delivered four full stack web applications in three weeks",
       "Adapted to rapid implementation of new technologies including third party API's, frameworks, libraries and databases",
       "Trained in software development fundamentals, object-oriented programming, test driven development, Git/Github version control",
-      "Honed technical communications, delivered presentations highlighting project implementations details and business objectives"
-    ]
-
-    },
+      "Honed technical communications, delivered presentations highlighting project implementations details and business objectives"]
+    
+  },
+    
     "languages": ["JavaScript", "TypeScript", "HTML5", "CSS", "Python", "Ruby","PostgreSQL", "Regular Expressions"],
     "frameworks": ["React", "NodeJs", "Ruby on Rails","Jest","express.js" ],
     "Methodologies": ["Agile", "Test-Driven Development", "Pair Programing"],
