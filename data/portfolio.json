@@ -1,9 +1,8 @@
 {
   "name": "Angeline",
   "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Angeline Polidano",
-  "headerTaglineThree": "Creative Front-End Engineer",
-  "headerTaglineFour": "Aussie based in San Fransisco.",
+  "headerTaglineTwo": "I'm Angeline",
+  "headerTaglineThree": " A Creative Full Stack Software Engineer",
   "darkMode": true,
   "showResume": true,
   "socials": [
@@ -26,7 +25,7 @@
       "id": "1",
       "title": "Ampd",
       "description": "Web Development: React, Ruby on Rails, Mapbox API",
-      "imageSrc": "https://i.postimg.cc/jdc14bH5/amp2.png",
+      "imageSrc": "https://i.postimg.cc/MTSyQ5kX/yay.png",
       "url": "https://ampd-client.netlify.app"
     },
     {
@@ -40,7 +39,7 @@
       "id": "3",
       "title": "Clear Path Methodology",
       "description": "Web Development: React",
-      "imageSrc": "https://i.postimg.cc/1ztPyb44/clearpath.png",
+      "imageSrc": "https://i.postimg.cc/BbPnp9fg/clearpath.png",
       "url": "https://www.clearpathmethodology.com/"
     },
     {
@@ -77,29 +76,28 @@
         "type": "Full Time",
         "position": "Software Engineer at Compliance.ai",
         "bullets": [
-          "•Wrote scripts using Python, JSON, and Regex to extract data from government and corporate documents",
-          "•Conducted quality analysis using internal document integration tool to ensure results met requirements outlined by specifications",
-          "•Collaborated across teams to provide feedback on existing tools, report bugs and identify inefficiencies",
-          "•Designed new features such as ability to add multi-language relationships between documents",
-          "•Updated the primary documentation for the company's web crawler engine as well as onboarding materials for new hires",
-          "•Delivered to key international stakeholders with tight turnaround and efficiency"
+         "Wrote scripts using Python JSON and Regex to extract data from government and corporate documents",
+         "Conducted quality analysis using internal document integration tool to ensure results met requirements outlined by specifications", 
+         "Collaborated across teams to provide feedback on existing tools, report bugs and identify inefficiencies, Designed new features such as ability to add multi-language relationships between documents",
+         "Updated the primary documentation for the company's web crawler engine as well as onboarding materials for new hires, Delivered to key international stakeholders with tight turnaround and efficiency"
         ]
-      },
+    
+  },
       {
         "id": "2",
         "dates": "January 2020 - September",
         "type": "Full Time",
         "position": "Junior Software Engineer at Insight Orchards",
         "bullets": [
-      "•Developed a core library of reusable UI components in React using Storybook to standardize development, testing, documentation, and reduce front-end inconsistencies",
-      "•Collaborated in team meetings discussing feature requirements and implementation strategies, engaging in a range of solo, pairing, and mobbing sessions to optimize development solutions and workflow",
-      "•Implemented payment gateway portal that supports a multi-tier subscription model and integrates with Stripe API",
-      "•Built out full-stack calendar microservice consumed by both mobile and web clients, supporting CRUD operations for single and recurring events",
-      "•Developed text and audio comment features end-to-end for a community-based media application",
-     "•Leveraged Test-Driven Development to implement features via unit, integration, and end-to-end tests (Cypress, Jest)",
-      "•Served as a liaison between design, product, and engineers, giving weekly demos, and integrating product feedback",
-     "•Participated in agile rituals such as daily stand ups, code reviews, sprint plannings, and retrospectives"
-    ]
+     "Developed a core library of reusable UI components in React using Storybook to standardize development, testing, documentation, and reduce front-end inconsistencies",
+     "Collaborated in team meetings discussing feature requirements and implementation strategies, engaging in a range of solo, pairing, and mobbing sessions to optimize development solutions and workflow",
+     "Implemented payment gateway portal that supports a multi-tier subscription model and integrates with Stripe API",
+     "Built out full-stack calendar microservice consumed by both mobile and web clients, supporting CRUD operations for single and recurring events",
+     "Developed text and audio comment features end-to-end for a community-based media application",
+     "Leveraged Test-Driven Development to implement features via unit, integration, and end-to-end tests (Cypress, Jest)",
+     "Served as a liaison between design, product, and engineers, giving weekly demos, and integrating product feedback",
+     "Participated in agile rituals such as daily stand ups, code reviews, sprint plannings, and retrospectives"]
+    
       },
       {
         "id": "3",
@@ -107,20 +105,20 @@
         "type": "Full Time",
         "position": "IT Support Specialist",
         "bullets": [
-        "•Provided IT support across five departments, including product development, product assembly, admin, shipping and technology",
-        "•Analyzed business operations, identified inefficiencies across departments, and developed a company-wide inventory efficiency system to reduce waste and streamline orders",
-        "•Conducted staff training for new enterprise technologies",
-        "•Presented data indicating increased profit margins, streamlined production, improved inventory efficiency, staff confidence and productivity"
-  ]
+        "Provided IT support across five departments, including product development, product assembly, admin, shipping and technology",
+        "Analyzed business operations, identified inefficiencies across departments, and developed a company-wide inventory efficiency system to reduce waste and streamline orders",
+        "Conducted staff training for new enterprise technologies",
+        "Presented data indicating increased profit margins, streamlined production, improved inventory efficiency, staff confidence and productivity"
+        ]
       }
     ],
     "education": {
       "universityName": "General Assembly: Software Engineering Immersive",
       "universityDate": "September- December 2021",
       "bullets": ["Envisioned, developed and delivered four full stack web applications in three weeks",
-       "•Adapted to rapid implementation of new technologies including third party API's, frameworks, libraries and databases",
-      "•Trained in software development fundamentals, object-oriented programming, test driven development, Git/Github version control",
-      "•Honed technical communications, delivered presentations highlighting project implementations details and business objectives"]
+       "Adapted to rapid implementation of new technologies including third party API's, frameworks, libraries and databases",
+      "Trained in software development fundamentals, object-oriented programming, test driven development, Git/Github version control",
+      "Honed technical communications, delivered presentations highlighting project implementations details and business objectives"]
 
     },
     "languages": ["JavaScript", "TypeScript", "HTML5", "CSS", "Python", "Ruby","PostgreSQL", "Regular Expressions"],
