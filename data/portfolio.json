@@ -96,7 +96,8 @@
      "Developed text and audio comment features end-to-end for a community-based media application",
      "Leveraged Test-Driven Development to implement features via unit, integration, and end-to-end tests (Cypress, Jest)",
      "Served as a liaison between design, product, and engineers, giving weekly demos, and integrating product feedback",
-     "Participated in agile rituals such as daily stand ups, code reviews, sprint plannings, and retrospectives"]
+     "Participated in agile rituals such as daily stand ups, code reviews, sprint plannings, and retrospectives"
+    ]
     
       },
       {
@@ -115,10 +116,12 @@
     "education": {
       "universityName": "General Assembly: Software Engineering Immersive",
       "universityDate": "September- December 2021",
-      "bullets": ["Envisioned, developed and delivered four full stack web applications in three weeks",
-       "Adapted to rapid implementation of new technologies including third party API's, frameworks, libraries and databases",
+      "bullets": [
+      "Envisioned, developed and delivered four full stack web applications in three weeks",
+      "Adapted to rapid implementation of new technologies including third party API's, frameworks, libraries and databases",
       "Trained in software development fundamentals, object-oriented programming, test driven development, Git/Github version control",
-      "Honed technical communications, delivered presentations highlighting project implementations details and business objectives"]
+      "Honed technical communications, delivered presentations highlighting project implementations details and business objectives"
+    ]
 
     },
     "languages": ["JavaScript", "TypeScript", "HTML5", "CSS", "Python", "Ruby","PostgreSQL", "Regular Expressions"],

@@ -109,13 +109,27 @@ const Resume = () => {
                     </div>
                   )}
 
-                  {resume.others && (
+                  {resume.Methodologies && (
                     <div className="mt-2 mob:mt-5">
-                      <h2 className="text-lg">Others</h2>
+                      <h2 className="text-lg">Methodologies</h2>
                       <ul className="list-disc">
-                        {resume.others.map((other, index) => (
+                        {resume.Methodologies.map((Methodologies, index) => (
                           <li key={index} className="ml-5 py-2">
-                            {other}
+                            {Methodologies}
+                          </li>
+                        ))}
+                      </ul>
+                    </div>
+                  )}
+
+
+                  {resume.Tools && (
+                    <div className="mt-2 mob:mt-5">
+                      <h2 className="text-lg">Tools</h2>
+                      <ul className="list-disc">
+                        {resume.Tools.map((Tools, index) => (
+                          <li key={index} className="ml-5 py-2">
+                            {Tools}
                           </li>
                         ))}
                       </ul>
