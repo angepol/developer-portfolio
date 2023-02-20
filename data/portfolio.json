@@ -32,8 +32,8 @@
       "id": "2",
       "title": "Calendar-service",
       "description": "Web Application: React, CSS, TypeScript, Jest, Express, MongoDB",
-      "imageSrc": "https://i.postimg.cc/QdztnvQg/calendar.png",
-      "url": "https://github.com/angepol/calendar-service"
+      "imageSrc": "https://i.postimg.cc/4xbvvFVj/cal.png",
+      "url": "https://io-cal-frontend.herokuapp.com/"
     },
     {
       "id": "3",
