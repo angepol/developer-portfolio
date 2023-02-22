@@ -30,21 +30,22 @@
       "url": "https://io-cal-frontend.herokuapp.com/",
       "gitHub": "https://github.com/angepol/calendar-service"
     },
+
     {
       "id": "2",
-      "title": "Flora Denbo",
-      "description": "Web Development: React, Express, CSS, Stripe API",
-      "imageSrc": "https://i.postimg.cc/fLH1BvNF/flora.png",
-      "url": "https://flora-denbo.herokuapp.com/",
-      "gitHub": "https://github.com/angepol/cha-ching"
-    },
-    {
-      "id": "3",
       "title": "Clear Path Methodology",
       "description": "Web Development: React",
       "imageSrc": "https://i.postimg.cc/BbPnp9fg/clearpath.png",
       "url": "https://www.clearpathmethodology.com/",
       "gitHub": "https://www.clearpathmethodology.com/"
+    },
+    {
+      "id": "3",
+      "title": "Flora Denbo",
+      "description": "Web Development: React, Express, CSS, Stripe API",
+      "imageSrc": "https://i.postimg.cc/fLH1BvNF/flora.png",
+      "url": "https://flora-denbo.herokuapp.com/",
+      "gitHub": "https://github.com/angepol/cha-ching"
     },
 
     {
