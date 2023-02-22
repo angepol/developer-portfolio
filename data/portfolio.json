@@ -24,7 +24,7 @@
 
     {
       "id": "1",
-      "title": "Calendar-service",
+      "title": "Calendar-Service",
       "description": "Web Application: JavaScript, TypeScript, React, Express, MongoDB, Jest, Cypress, CSS",
       "imageSrc": "https://i.postimg.cc/4xbvvFVj/cal.png",
       "url": "https://io-cal-frontend.herokuapp.com/",
