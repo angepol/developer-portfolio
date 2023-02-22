@@ -1,7 +1,8 @@
 import React from "react";
 
-const WorkCard = ({ img, name, description, onClick }) => {
+const WorkCard = ({ img, name, description, onClick, onHandleSubmit }) => {
   return (
+    <div>
     <div
       className="overflow-hidden rounded-lg p-2 laptop:p-4 first:ml-0 link"
       onClick={onClick}
@@ -22,6 +23,10 @@ const WorkCard = ({ img, name, description, onClick }) => {
       <h2 className="text-xl opacity-50">
         {description ? description : "Description"}
       </h2>
+      <h3 className="mt-5 text-3xl font-medium">
+      </h3>
+    </div>
+    <button onClick={onHandleSubmit} type="button">show code</button>
     </div>
   );
 };

@@ -1,6 +1,5 @@
 import { useRef } from "react";
 import Header from "../components/Header";
-import ServiceCard from "../components/ServiceCard";
 import Socials from "../components/Socials";
 import WorkCard from "../components/WorkCard";
 import { useIsomorphicLayoutEffect } from "../utils";
@@ -104,24 +103,11 @@ export default function Home() {
                 name={project.title}
                 description={project.description}
                 onClick={() => window.open(project.url)}
+                onHandleSubmit={() => window.open(project.gitHub)}
               />
             ))}
           </div>
         </div>
-
-        {/* <div className="mt-10 laptop:mt-30 p-2 laptop:p-0"> */}
-          {/* <h1 className="tablet:m-10 text-2xl text-bold">Services.</h1> */}
-          {/* <div className="mt-5 tablet:m-10 grid grid-cols-1 laptop:grid-cols-2 gap-6"> */}
-            {/* {data.services.map((service, index) => (
-              <ServiceCard
-                key={index}
-                name={service.title}
-                description={service.description}
-              />
-            ))} */}
-          {/* </div> */}
-        {/* </div> */}
-        {/* This button should not go into production */}
         {process.env.NODE_ENV === "development" && (
           <div className="fixed bottom-5 right-5">
             <Link href="/edit">

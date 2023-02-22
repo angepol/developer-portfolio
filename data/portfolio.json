@@ -27,14 +27,16 @@
       "title": "Calendar-service",
       "description": "Web Application: React, CSS, TypeScript, Jest, Express, MongoDB",
       "imageSrc": "https://i.postimg.cc/4xbvvFVj/cal.png",
-      "url": "https://io-cal-frontend.herokuapp.com/"
+      "url": "https://io-cal-frontend.herokuapp.com/",
+      "gitHub": "https://github.com/angepol/calendar-service"
     },
     {
       "id": "2",
       "title": "Flora Denbo",
       "description": "Web Development: React, Express, CSS, Stripe API",
       "imageSrc": "https://i.postimg.cc/fLH1BvNF/flora.png",
-      "url": "https://flora-denbo.herokuapp.com/"
+      "url": "https://flora-denbo.herokuapp.com/",
+      "gitHub": "https://github.com/angepol/cha-ching"
     },
     {
       "id": "3",
@@ -49,7 +51,8 @@
       "title": "Traveller",
       "description": "Web Application: MapBox API, Ruby on Rails, CSS",
       "imageSrc": "https://i.postimg.cc/RFMvNk2K/map.png",
-      "url": "https://serene-fortress-87285.herokuapp.com/"
+      "url": "https://serene-fortress-87285.herokuapp.com/",
+      "gitHub": "https://github.com/angepol/hello-world"
     },
    
     {
@@ -57,14 +60,16 @@
       "title": "Ampd",
       "description": "Web Development: React, Ruby on Rails, Mapbox API",
       "imageSrc": "https://i.postimg.cc/MTSyQ5kX/yay.png",
-      "url": "https://ampd-client.netlify.app"
+      "url": "https://ampd-client.netlify.app",
+      "gitHub": "https://github.com/angepol/ampd_client"
     },
     {
       "id": "6",
       "title": "Tic Tac Toe",
       "description": "Game Development: JavaScript, JQuery, HTML, CSS",
       "imageSrc": "https://i.postimg.cc/sg1srtMx/tictactoe.png",
-      "url": "https://angepol.github.io/tic-tac-toe/"
+      "url": "https://angepol.github.io/tic-tac-toe/",
+      "gitHub": "https://github.com/angepol/tic-tac-toe"
     }
    
   ],
