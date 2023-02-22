@@ -3,8 +3,9 @@ import Button from "../Button";
 
 const WorkCard = ({ img, name, description, onClick, onHandleSubmit }) => {
   return (
-    <div className="container">
+    <div style={{marginBottom: "20px"}}>
     <div
+    style={{marginBottom: "-20px"}}
       className="overflow-hidden rounded-lg p-2 laptop:p-4 first:ml-0 link"
       onClick={onClick}
     >
@@ -28,8 +29,8 @@ const WorkCard = ({ img, name, description, onClick, onHandleSubmit }) => {
       </h3>
     </div>
     <div style={{ paddingLeft: "10px"}}>
-    <Button onClick={onHandleSubmit} type="button">Show
-    code 👩‍💻</Button>
+    <Button onClick={onHandleSubmit} type="button">View
+    Code 👩‍💻</Button>
     </div>
     </div>
   );
